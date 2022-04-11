@@ -1,1 +1,1 @@
-Frontend y Backend de fianzas CONALITEG
+primarea aplicacion en ionic
